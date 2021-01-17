@@ -1,0 +1,3 @@
+-open it
+-installing
+-launch application
