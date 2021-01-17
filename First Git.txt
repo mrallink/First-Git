@@ -1,3 +1,6 @@
 -open it
 -installing
 -launch application
+
+-open application
+-update application
