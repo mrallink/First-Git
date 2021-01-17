@@ -2,5 +2,5 @@
 -installing
 -launch application
 
--open application
--update application
+-uninstalling application
+-shutdown your computer
