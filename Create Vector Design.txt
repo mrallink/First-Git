@@ -1,3 +1,0 @@
--install application
--intall brush plugin
--export file with png format
